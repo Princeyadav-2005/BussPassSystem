@@ -14,6 +14,20 @@ A Java Swing based Bus Pass Management System with MySQL Database integration.
 - 🎨 Java Swing GUI Interface
 
 ---
+## 📸 Screenshots
+
+### Login Page
+![Login Page](https://github.com/user-attachments/assets/54a183d9-c9dc-40fb-911e-3d6362e6fd1e)
+
+---
+
+### Bus Pass
+![Bus Pass](https://github.com/user-attachments/assets/4a1556e6-db2d-4111-a5f9-2bd2680cfd3f)
+
+---
+
+### Token Verification
+![Token Verification](https://github.com/user-attachments/assets/8f65e997-44e1-47c4-998a-08920ae5b12b)
 
 ## 🛠 Technologies Used
 
@@ -58,12 +72,6 @@ distance	INT
 fare	INT
 mobile	VARCHAR
 token	VARCHAR
-📸 Screenshots
-
-<img width="507" height="516" alt="image" src="https://github.com/user-attachments/assets/54a183d9-c9dc-40fb-911e-3d6362e6fd1e" />
-<img width="546" height="500" alt="image" src="https://github.com/user-attachments/assets/4a1556e6-db2d-4111-a5f9-2bd2680cfd3f" />
-<img width="546" height="612" alt="image" src="https://github.com/user-attachments/assets/8f65e997-44e1-47c4-998a-08920ae5b12b" />
-
 
 🌐 GitHub Repository
 
