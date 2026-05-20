@@ -29,6 +29,10 @@ A Java Swing based Bus Pass Management System with MySQL Database integration.
 ### Token Verification
 ![Token Verification](https://github.com/user-attachments/assets/8f65e997-44e1-47c4-998a-08920ae5b12b)
 
+### Database
+![Database](https://github.com/user-attachments/assets/f3b4edd5-6165-4c60-a1ca-825560e9df05)
+
+
 ## 🛠 Technologies Used
 
 - Java
