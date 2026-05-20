@@ -53,21 +53,30 @@ PassPage.java
 SearchPass.java
 
 ⚡ How to Run
-Install MySQL & MySQL Workbench
-Create Database:
+
+->Install MySQL & MySQL Workbench
+->Create Database:
 CREATE DATABASE buspass;
 Import/Create required tables
 Open project in NetBeans/Eclipse
+
+
 Run:
 LoginPage.java
+
 🗄 Database Tables
+
 users
 Column	Type
+
 id	INT
 username	VARCHAR
 password	VARCHAR
+
 passdetails
+
 Column	Type
+
 id	INT
 name	VARCHAR
 fromplace	VARCHAR
@@ -76,8 +85,8 @@ distance	INT
 fare	INT
 mobile	VARCHAR
 token	VARCHAR
-
 🌐 GitHub Repository
+
 
 https://github.com/Princeyadav-2005/BussPassSystem
 
